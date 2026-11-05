@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Calendar
+Comment=Frameless month calendar for the desktop
+Exec=calendar-widget
+Icon=x-office-calendar
+Terminal=false
+Categories=Office;Calendar;Utility;
+StartupNotify=false
+Keywords=calendar;month;desktop;
